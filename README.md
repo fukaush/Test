@@ -23,7 +23,5 @@
   определенным номером, нужный комментарий удаляется из списка.</p>
 
 <h3>Как запустить?</h3>
-<p>Устанавливаем зависимости</p>
-<code class="language-sh">$ npm install</code>
-<p>Запускаем проект</p>
-<code class="language-sh">$ npm run dev</code>
+<p>Устанавливаем зависимости <code class="language-sh">$ npm install</code></p>
+<p>Запускаем проект <code class="language-sh">$ npm run dev</code></p>
